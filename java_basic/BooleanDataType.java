@@ -27,7 +27,7 @@ public class BooleanDataType {
 		System.out.println(value);
 
 		 
-		for(int i=0; i < 5; i++) { 
+		for(int i=0; i < 5; i++) {
 			System.out.println("The value of i is: " + i); // It will turn "I" automaticly into a string..
 		}
 
