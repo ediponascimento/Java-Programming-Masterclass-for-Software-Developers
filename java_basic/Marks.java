@@ -21,8 +21,8 @@ class marks {
     for( String person : people) 
       System.out.println(person);
 
-    System.out.println("Marks length is: " + marks.length);
-    System.out.println("People length is: " + people.length);
+    System.out.println("Marks length is : " + marks.length);
+    System.out.println("People length is : " + people.length);
   }
 
 }
