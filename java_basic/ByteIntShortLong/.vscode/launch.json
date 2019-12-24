@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main10",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main10",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main9",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main9",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main8",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main8",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main7",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main7",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main1",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main1",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Main",
+            "projectName": "ByteIntShortLong_5bdf4226"
+        }
+    ]
+}
