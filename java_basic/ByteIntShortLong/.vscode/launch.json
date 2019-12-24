@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Exercise",
+            "request": "launch",
+            "mainClass": "byteintshortlong.Exercise",
+            "projectName": "ByteIntShortLong_35f601d3"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main10",
             "request": "launch",
             "mainClass": "byteintshortlong.Main10",
